@@ -1,4 +1,26 @@
-# GymPoint
+<h1 align="center">
+  <img alt="GymPoint" title="#GymPoint" src=".github/logo.png" width="250px" />
+</h1>
+
+<h4 align="center">
+  🚀 GymPoint
+</h4>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianotavernard/gostack-gympoint">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucianotavernard/gostack-gympoint">
+
+  <a href="https://github.com/lucianotavernard/gostack-gympoint/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucianotavernard/gostack-gympoint">
+  </a>
+
+  <a href="https://github.com/lucianotavernard/gostack-gympoint/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/lucianotavernard/gostack-gympoint">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
 ## 💻 Projeto
 
